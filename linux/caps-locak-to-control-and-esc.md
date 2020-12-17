@@ -20,7 +20,7 @@ sudo apt-get install xcape
 ```
 
 1. 修改按键映射
-
+111111111111111111111111111
 ```bash
 # 修改大小写锁定为 ctrl
 setxkbmap -option ctrl:nocaps
